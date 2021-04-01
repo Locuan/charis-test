@@ -10,9 +10,9 @@ Welcome to the beginner's guide of CHARIS Test pipeline! This documentation cont
 
 If you are new to CHARIS Test, :ref:`install the pipeline first <settingup>` and then explore these pages:
 
-Importing Data
-Reducing Data
-Saving and Exporting Files 
+* Importing Data
+* Reducing Data
+* Saving and Exporting Files 
 
 .. toctree::
    :maxdepth: 2
