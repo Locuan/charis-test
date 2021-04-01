@@ -1,0 +1,5 @@
+#Ignore files
+.DS_Store
+testenv/
+docs/build/
+docs/source/_templates
